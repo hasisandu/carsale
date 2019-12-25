@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bb9bb38a-bddf-49cf-912f-df95eea72cfe" name="uploadfile" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/opt/lampp/htdocs/carsale" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
